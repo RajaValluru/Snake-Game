@@ -1,0 +1,3 @@
+pygame>=2.1.3,<3
+# Dev / tests:   pip install pytest
+# Build .exe:    pip install pyinstaller      (then run: python build_exe.py)
